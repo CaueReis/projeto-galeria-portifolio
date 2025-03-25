@@ -2,9 +2,13 @@
 
 ## 🎯 Objetivo do Projeto
 Esse projeto foi criado como parte do Curso de Web Moderno com o objetivo de colocar em prática conceitos essenciais de desenvolvimento front-end, como:
+
 ✔ Manipulação do DOM com JavaScript puro
+
 ✔ Filtragem dinâmica de conteúdo sem recarregar a página
+
 ✔ Responsividade com Bootstrap 4
+
 ✔ Build e otimização usando Webpack
 
 Além disso, serviu como um portfólio interativo para exibir fotos de diferentes cidades (Nova York, Florianópolis e Rio de Janeiro) de forma organizada e visualmente atraente.
